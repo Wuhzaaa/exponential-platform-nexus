@@ -1,12 +1,12 @@
-# Exponential Platform 2.5.0.x
+# Exponential Platform Nexus 2.5.0.x
 
-# Exponential Platform Project Notice : 2025.08.12
+# Exponential Platform Nexus Project Notice : 2025.08.12
 
 "Please Note: This project is not associated with the original eZ Publish software or its original developer, eZ Systems or Ibexa".
 
-# Exponential Platform Project Status
+# Exponential Platform Nexus Project Status
 
-**Exponential Platform has made it beyond it's end of life in 2021 and survived. Current releases are primarily aimed at easing the requirements to support current versions of the PHP language like PHP 8.2, 8.3, 8.4 and beyond php9**
+**Exponential Platform has made it beyond it's end of life in 2022 and survived. Current releases are primarily aimed at easing the requirements to support current versions of the PHP language like PHP 8.3, 8.4, 8.5 and beyond php9**
 
 # Who is 7x
 
@@ -18,17 +18,17 @@
 
 Previously before 2022, 7x was called Brookins Consulting who was the outspoken leader in the active Exponential Platform Community and it's Portals for the past 24 years.
 
-# What is Exponential Platform?
+# What is Exponential Platform Nexus?
 
-## Recent improvements to Exponential Platform
-Exponential Platform (the application of interest) delivered to users worldwide by a web server (PHP built-in, Apache, Nginx, lighttpd, Among others).
+## Recent improvements to Exponential Platform Nexus
+Exponential Platform Nexus (the application of interest) delivered to users worldwide by a web server (PHP built-in, Apache, Nginx, lighttpd, Among others).
 
-With PHP we require composer to install Exponential Platform software and no other software required to run
-the application. This is an incredible improvement to the kernel (core) of Exponential Platform.
+With PHP we require composer to install Exponential Platform Nexus software and no other software required to run
+the application. This is an incredible improvement to the kernel (core) of Exponential Platform Nexus.
 
-## What does Exponential Platform provide for end users building websites?
+## What does Exponential Platform Nexus provide for end users building websites?
 
-Exponential Platform is a professional PHP application framework with advanced CMS (content management system) functionality. As a CMS its most notable feature
+Exponential Platform Nexus is a professional PHP application framework with advanced CMS (content management system) functionality. As a CMS its most notable feature
 is its fully customizable and extendable content model.
 It is also suitable as a platform for general PHP development, allowing
 you to develop professional Internet applications, fast.
@@ -37,24 +37,24 @@ Standard CMS functionality, like news publishing and forums is
 built in and ready for you to use. Its stand-alone libraries can be
 used for cross-platform, secure, database independent PHP projects.
 
-Exponential Platform is database, platform and browser independent. Because it is
+Exponential Platform Nexus is database, platform and browser independent. Because it is
 browser based it can be used and updated from anywhere as long as you have
 access to the Internet.
 
-(Referred to as `new stack` in Exponential Platform 5.x and Ibexa OSS)
+(Referred to as `legacy+new stasck` in Exponential Platform and Ibexa OSS)
 
 # Requirements
 - PHP
 - (Optional) Web server. Used to deliver the website to the end user.
 - (Required) Database server. Used to store website content (and application information)
-- Composer. Used to download Exponential Platform software packages for installation, also notebly installs the required Zeta Components php libraries.
+- Composer. Used to download Exponential Platform Nexus software packages for installation, also notebly installs the required Zeta Components php libraries.
 - Computer to run the PHP website application.
 
 ## What version of PHP is required
 
-Exponential Platform Legacy supports PHP 7.4 -> 8.4 please use the latest version of PHP available on your OS.
+Exponential Platform Nexus supports PHP 7.3 -> 8.5 please use the latest version of PHP available on your OS.
 
-# Main Exponential Platform features
+# Main Exponential Platform Nexus features
 
 - User defined content classes and objects
 - Version control
@@ -114,9 +114,9 @@ Support Exponential Platform! Project extension support Website: [support.expone
 Share Exponential! Telegram Community Support Chat
 [https://t.me/exponentialcms](https://t.me/exponentialcms)
 
-# How to contribute new features and bugfixes into Exponential Platform
+# How to contribute new features and bugfixes into Exponential Platform Nexus
 
-Everyone is encouraged to [contribute](CONTRIBUTING.md) to the development of new features and bugfixes for Exponential Platform 6.
+Everyone is encouraged to [contribute](CONTRIBUTING.md) to the development of new features and bugfixes for Exponential Platform Nexus.
 
 # Donate and make a support subscription. 
 ## Help fund Exponential Platform!
