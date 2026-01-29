@@ -60,6 +60,10 @@ class AppKernel extends Kernel
             // Netgen Tags
             new Lolautruche\EzCoreExtraBundle\EzCoreExtraBundle(),
             new Netgen\TagsBundle\NetgenTagsBundle(),
+            // Netgen Site Bundles
+            new Netgen\Bundle\EzPlatformSiteApiBundle\NetgenEzPlatformSiteApiBundle(),
+            new Netgen\Bundle\SiteBundle\NetgenSiteBundle(),
+            new Netgen\Bundle\SiteInstallerBundle\NetgenSiteInstallerBundle(),
             // Application
             new AppBundle\AppBundle(),
         ];
